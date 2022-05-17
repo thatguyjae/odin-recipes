@@ -1,2 +1,3 @@
 # odin-recipes
 Practice html odin-recipes
+In this assignment my first functioning website beyond hello world was created. In this assignment I got to practice html boilerplate from memory as well as all areas covered in the html lessons. I found the html to come fairly easily, however Git and the command line are still challenging and require a great deal of thought, I look forward to improving these areas.
